@@ -1,17 +1,20 @@
 # Advent-JS
 
 25 days of code with modern JavaScript. In this course we will learn about:
-* Vanilla JavaScript
-* Node.js
+## Frontend
+* Vanilla JavaScript - ES6
 * React.js - all hooks, no classes!
-* MongoDB
+## Backend
+* Node.js
+* RESTful APIs - Express.js
 * Express.js
-* RESTful APIs
-* GraphQL
+* MongoDB
+* Authentication
+## Serverless
 * Serverless Functions
 * FaunaDB
 * Cloud hosting
-* Authentication
+* GraphQL - Apollo Server
 
 ## Getting Started
 
